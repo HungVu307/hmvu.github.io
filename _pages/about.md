@@ -43,8 +43,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* *2023.11* **Best Paper Award**, The 13th Conference On Information Technology And Its Application (CITA), Springer.
+* *2023.06* **Best Presentation Thesis**, Department of Automation Engineering, Hanoi University of Science and Technology (HUST).
+* *2023.05* **Third Prize for Scientific Research Students**, Hanoi University of Science and Technology (HUST).
+* *2021.10* **Scholarship ”Ho Tro Hoc Tap 20211”** (GPA 3.92 and Activity score 90), Hanoi University of Science and Technology (HUST).
+* *2019.09* **Member of the National Team of Excellent Students in Mathematics**, representing Hai Duong province.
+* *2018.04* **Honorable Prize in Math Modelling Competition**, Vietnam Mathematics Association.
+* *2018.03* **Consolation Prize at the Provincial Level in Mathematics**, Vietnam Mathematics Association.
+* *2017.03* **Consolation Prize at the Provincial Level in Mathematics**, Vietnam Mathematics Association.
 
 # 📖 Educations
 - *2019.09 - 2023.10*, Bachelor of Automation Engineering, Hanoi University of Science and Technology (HUST). 
