@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Manh-Hung Vu"
-  avatar           : "images/hmvu.jpeg" 
+  avatar           : "images/android-chrome-512x512.png" 
   bio              : "Manh-Hung Vu is an Associate Applied Scientist at NVIDIA, specializing in Computer Vision and machine learning."
   location         : "Hanoi, Vietnam"
   employer         :
