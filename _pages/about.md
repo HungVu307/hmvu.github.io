@@ -41,7 +41,9 @@ Distance Metric Learning from Multiscale Features](https://scholar.google.com/ci
    data-icon="octicon-star"
    data-size="large"
    data-show-count="true"
-   aria-label="Star facebook/react on GitHub">Star</a>
+   aria-label="Star HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance on GitHub">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 [**Project**](https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
