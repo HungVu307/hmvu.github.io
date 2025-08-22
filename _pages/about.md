@@ -41,7 +41,6 @@ Distance Metric Learning from Multiscale Features](https://scholar.google.com/ci
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 * *2023.11* **Best Paper Award**, The 13th Conference On Information Technology And Its Application (CITA), Springer.
