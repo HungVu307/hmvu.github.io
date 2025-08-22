@@ -53,11 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 * *2017.03* **Consolation Prize at the Provincial Level in Mathematics**, Vietnam Mathematics Association.
 
 # 📖 Educations
-- *2019.09 - 2023.10*, Bachelor of Automation Engineering, Hanoi University of Science and Technology (HUST). 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.09 - 2023.10*, Talented Class of the Automation Engineering Major at Hanoi University of Science and Technology. 
 
 # 💻 Experiences
 - *2024.10 - present*, Applied Scientist, [NVIDIA](https://developer.nvidia.com/metropolis), Vietnam.
