@@ -36,6 +36,7 @@ Transformer-based Model with Mahalanobis
 Distance Metric Learning from Multiscale Features](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=6MtqPp8AAAAJ&citation_for_view=6MtqPp8AAAAJ:Tyk-4Ss8FVUC)
 
 **Manh-Hung Vu**, Van-Quang Nguyen, Thi-Thao Tran, Van-Truong Pham, Men-Tzung Lo
+
 <a class="github-button"
    href="https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance"
    data-icon="octicon-star"
