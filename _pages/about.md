@@ -50,6 +50,25 @@ Distance Metric Learning from Multiscale Features](https://scholar.google.com/ci
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MATCOM</div><img src='images/MATCOM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive optimal coordination control of perturbed Bilateral Teleoperators with variable time delays using Actor–Critic Reinforcement Learning algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0378475424003628)
+
+Phuong Nam Dao, Quang Phat Nguyen. **Manh Hung Vu**
+
+<a class="github-button"
+   href="https://github.com/HungVu307/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance on GitHub">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+[**Project**](https://github.com/HungVu307/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 * *2023.11* **Best Paper Award**, The 13th Conference On Information Technology And Its Application (CITA), Springer.
