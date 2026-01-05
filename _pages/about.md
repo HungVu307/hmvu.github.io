@@ -23,8 +23,15 @@ His research focuses on Vision Language Models, Computer Vision, and Signal Proc
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 My project at NVIDIA is now live, please check out [TAO-Toolkit](https://docs.nvidia.com/tao/tao-toolkit/latest/text/cv_finetuning/pytorch/instance_segmentation/oneformer.html?fbclid=IwY2xjawPItNBleHRuA2FlbQIxMABicmlkETFmakdIVlpRaVgwMmR2QlNIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhdUq5incLt9FNxGLsBspyMKMN2dTlVQH8vUgWRJNF4rbfO2Qh2iuYjUedBj_aem_SZwdtYUE6V_rSn1sGMiWlQ).
+- *2025.12*: &nbsp;🎉🎉 1 paper about Medical Image Analysis was accepted by AAAI (rank A*).
+- *2025.03*: &nbsp;🎉🎉 1 paper about Medical Image Segmentation was accepted by BSPC (ISI-Q1).
+- *2025.03*: &nbsp;🎉🎉 1 paper about Reinforcement Learning was accepted by MATCOM.
+- *2025.02*: &nbsp;🎉🎉 1 paper about Medical Image Representation was accepted by ISBI.
+- *2025.01*: &nbsp;🎉🎉 I start a new role as an Applied Scientist at NVIDIA (VN).
+- *2024.07*: &nbsp;🎉🎉 1 paper about Few-shot Learning was accepted by IEEE Sensor Letter.
+- *2024.03*: &nbsp;🎉🎉 1 paper about Few-shot Learning was accepted by IEEE TMI (ISI-Q1) (This is also my thesis).
+- *2023.10*: &nbsp;🎉🎉 I graduated with honors from Hanoi University of Science and Technology and started working at VinBigdata as an AI Engineer.
 
 # 📝 Publications 
 
