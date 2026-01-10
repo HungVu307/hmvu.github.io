@@ -48,15 +48,15 @@ His research focuses on Vision Language Models, Computer Vision, and Signal Proc
 Tran Bao Sam, **Hung Vu**, Dao Trung Kien, Dat Dang, Ha Tang, Steven Truong.
 
 <a class="github-button"
-   href="https://github.com/tranngocduvnvp/LiteNeXt."
+   href="https://github.com/dtrgkien/giim"
    data-icon="octicon-star"
    data-size="large"
    data-show-count="true"
-   aria-label="Star tranngocduvnvp/LiteNeXt.">Star</a>
+   aria-label="Star dtrgkien/giim">Star</a>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-[**Project**](https://github.com/tranngocduvnvp/LiteNeXt.) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/dtrgkien/giim) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
