@@ -35,8 +35,34 @@ His research focuses on Vision Language Models, Computer Vision, and Signal Proc
 
 # 📝 Publications 
 
+## 2025
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/IEEE_TIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Few-Shot Bearing Fault Diagnosis via Ensembling
+Transformer-based Model with Mahalanobis
+Distance Metric Learning from Multiscale Features](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=6MtqPp8AAAAJ&citation_for_view=6MtqPp8AAAAJ:Tyk-4Ss8FVUC)
+
+**Manh-Hung Vu**, Van-Quang Nguyen, Thi-Thao Tran, Van-Truong Pham, Men-Tzung Lo
+
+<a class="github-button"
+   href="https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance on GitHub">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+[**Project**](https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/IEEE_TIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 2024
 
 [Few-Shot Bearing Fault Diagnosis via Ensembling
 Transformer-based Model with Mahalanobis
