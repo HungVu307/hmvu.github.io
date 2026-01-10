@@ -86,6 +86,26 @@ Distance Metric Learning from Multiscale Features](https://scholar.google.com/ci
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensor Letters</div><img src='images/IEEE_Sensor_Letters.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-level Few-Shot Model with Selective Aggregation Feature for Bearing Fault Diagnosis under Limited Data Condition](https://ieeexplore.ieee.org/abstract/document/10755109/)
+
+**Manh-Hung Vu**, Thi-Thao Tran, Van-Truong Pham, Men-Tzung Lo
+
+<a class="github-button"
+   href="https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance on GitHub">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+[**Project**](https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MATCOM</div><img src='images/MATCOM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
