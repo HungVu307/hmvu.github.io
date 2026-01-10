@@ -40,7 +40,7 @@ His research focuses on Vision Language Models, Computer Vision, and Signal Proc
 
 ## 2025
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI/div><img src='images/ISBI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI</div><img src='images/ISBI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Semise: Semi-supervised learning for severity representation in medical image](https://arxiv.org/pdf/2501.03848?)
