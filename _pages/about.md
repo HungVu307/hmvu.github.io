@@ -38,6 +38,28 @@ His research focuses on Vision Language Models, Computer Vision, and Signal Proc
 
 # 📝 Publications 
 
+## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MHGs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GIIM: Graph-based Learning of Inter- and Intra-view Dependencies for Multi-view Medical Image Diagnosis]()
+
+Tran Bao Sam, **Hung Vu**, Dao Trung Kien, Dat Dang, Ha Tang, Steven Truong.
+
+<a class="github-button"
+   href="https://github.com/tranngocduvnvp/LiteNeXt."
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star tranngocduvnvp/LiteNeXt.">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+[**Project**](https://github.com/tranngocduvnvp/LiteNeXt.) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 ## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/BSPC.png' alt="sym" width="100%"></div></div>
